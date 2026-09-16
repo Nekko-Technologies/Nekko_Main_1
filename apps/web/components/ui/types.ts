@@ -1,0 +1,1 @@
+export type StatusEnum = "online" | "offline" | "standby";
